@@ -1,0 +1,22 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "Thinkful snippets exercise",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numbergames/snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numbergames/snippets/issues"
+  },
+  "homepage": "https://github.com/numbergames/snippets#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
